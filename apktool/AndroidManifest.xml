@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.gogoair.ife" platformBuildVersionCode="23" platformBuildVersionName="6.0-2438415">
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <application android:allowBackup="false" android:icon="@drawable/ic_homescreen" android:label="@string/app_name" android:name="com.gogoair.ife.gogo_vision.GVApplication" android:supportsRtl="false" android:theme="@style/AppBaseTheme">
+        <activity android:configChanges="keyboardHidden|screenSize" android:label="@string/app_name" android:launchMode="singleTask" android:name="com.gogoair.ife.views.MainActivity" android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_activity_landing" android:name="com.gogoair.ife.views.LandingActivity" android:parentActivityName="com.gogoair.ife.views.MainActivity" android:theme="@style/LandingTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/title_activity_movie_player" android:name="com.gogoair.ife.views.PlayerActivity" android:parentActivityName="com.gogoair.ife.views.MainActivity" android:screenOrientation="sensorLandscape" android:theme="@style/PlayerTheme"/>
+        <activity android:label="@string/title_activity_launcher" android:launchMode="singleTask" android:name="com.gogoair.ife.views.LauncherActivity" android:noHistory="true">
+            <intent-filter>
+                <data android:host="airbornemedia.gogoinflight.com" android:pathPattern="/app/gogoEntertainment.html*" android:scheme="http"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+            <intent-filter>
+                <data android:scheme="gogo-entertainment"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

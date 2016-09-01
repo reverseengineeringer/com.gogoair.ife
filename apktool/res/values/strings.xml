@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="action_about">About</string>
+    <string name="app_name">Gogo Entertainment</string>
+    <string name="caption_alert_title">Select Language</string>
+    <string name="caption_option_cancel">Cancel</string>
+    <string name="caption_option_none">None</string>
+    <string name="closed_caption_icon"></string>
+    <string name="dialog_message_check_flight">Checking Flight Information</string>
+    <string name="dialog_message_loading">Loading…</string>
+    <string name="dialog_title">Gogo Entertainment</string>
+    <string name="landingDescExpired">Choose another video from your listing or return to the entertainment storefront to rent one.</string>
+    <string name="landingDescFirstTimeAir">"Just getting started? Check out what’s in our library.
+
+Already selected a movie? Return to your web browser to start watching."</string>
+    <string name="landingDescGround">"You're all set to enjoy the latest movies and TV shows on your next Gogo equipped flight."</string>
+    <string name="landingDescLibraryEmpty">Choose a video from the entertainment storefront to get started.</string>
+    <string name="landingDescLibraryEmptyExpired">Return to the entertainment storefront to choose another video.</string>
+    <string name="landingDescNoDrm">"We're having trouble retrieving your video. Please try again or select another title from the storefront."</string>
+    <string name="landingDescNoROP">You can access your video within 24 hours on another flight on the same airline as your initial rental.</string>
+    <string name="landingDescNoVideo">"We're having trouble retrieving your video. Please try again or select another video from the entertainment storefront."</string>
+    <string name="landingDescNoWifi">Enable Wi-Fi in your settings to connect to the inflight network.</string>
+    <string name="landingIconCheckBox"></string>
+    <string name="landingIconNoWifi"></string>
+    <string name="landingIconVideoError"></string>
+    <string name="landingMainExpired">This video expired.</string>
+    <string name="landingMainFirstTimeAir">Welcome to Gogo Entertainment!</string>
+    <string name="landingMainGround">Thanks for downloading Gogo Entertainment!</string>
+    <string name="landingMainLibraryEmpty">No video rentals available.</string>
+    <string name="landingMainLibraryEmptyExpired">Your video(s) expired.</string>
+    <string name="landingMainNoDrm">Your video is unavailable</string>
+    <string name="landingMainNoROP">Video playback is only available inflight</string>
+    <string name="landingMainNoVideo">Your video is unavailable</string>
+    <string name="landingMainNoWifi">Wi-Fi is disabled.</string>
+    <string name="landingStoreButton">Explore our library</string>
+    <string name="title_activity_landing">Gogo Entertainment</string>
+    <string name="title_activity_launcher">Gogo Entertainment</string>
+    <string name="title_activity_movie_player">Gogo Entertainment</string>
+    <string name="try_again">Try Again</string>
+</resources>

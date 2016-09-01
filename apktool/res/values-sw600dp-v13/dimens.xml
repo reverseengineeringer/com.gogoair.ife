@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">64.0dip</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16.0dip</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20.0dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">580.0dip</dimen>
+    <dimen name="button_size_library_play">55.0dip</dimen>
+    <dimen name="cloud_reel_width">400.0dip</dimen>
+    <dimen name="font_size_description">30.0sp</dimen>
+    <dimen name="font_size_header">40.0sp</dimen>
+    <dimen name="font_size_icon">60.0sp</dimen>
+    <dimen name="height_btn_try_again">50.0dip</dimen>
+    <dimen name="height_cell">250.0dip</dimen>
+    <dimen name="margin_horizontal_activity">64.0dip</dimen>
+    <dimen name="margin_message_screen">60.0dip</dimen>
+    <dimen name="padding_progress_layout">30.0dip</dimen>
+    <dimen name="size_reel_background">300.0dip</dimen>
+    <dimen name="width_btn_try_again">250.0dip</dimen>
+    <dimen name="width_movie_image">168.0dip</dimen>
+    <dimen name="width_progress_container">350.0dip</dimen>
+    <dimen name="abc_action_bar_content_inset_material">24.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_end_material">8.0dip</dimen>
+    <dimen name="abc_action_bar_default_padding_start_material">8.0dip</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_size_library_play">55.0dip</dimen>
+    <dimen name="cloud_reel_width">500.0dip</dimen>
+    <dimen name="font_size_description">30.0sp</dimen>
+    <dimen name="font_size_header">60.0sp</dimen>
+    <dimen name="font_size_icon">72.0sp</dimen>
+    <dimen name="height_btn_try_again">50.0dip</dimen>
+    <dimen name="height_cell">250.0dip</dimen>
+    <dimen name="margin_horizontal_activity">64.0dip</dimen>
+    <dimen name="margin_message_screen">60.0dip</dimen>
+    <dimen name="padding_progress_layout">30.0dip</dimen>
+    <dimen name="size_reel_background">400.0dip</dimen>
+    <dimen name="width_btn_try_again">250.0dip</dimen>
+    <dimen name="width_movie_image">168.0dip</dimen>
+    <dimen name="width_progress_container">350.0dip</dimen>
+</resources>

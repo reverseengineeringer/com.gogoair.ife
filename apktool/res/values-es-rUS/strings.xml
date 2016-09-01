@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar a la página principal</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Elige una aplicación.</string>
+    <string name="abc_capital_off">DESACTIVAR</string>
+    <string name="abc_capital_on">ACTIVAR</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Eliminar la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de búsqueda</string>
+    <string name="abc_searchview_description_search">Búsqueda</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="action_about">Acerca</string>
+    <string name="app_name">Entretenimiento de videos Gogo</string>
+    <string name="caption_alert_title">Idioma de los subtitulos</string>
+    <string name="caption_option_cancel">Canelar</string>
+    <string name="caption_option_none">Ninguno</string>
+    <string name="closed_caption_icon"></string>
+    <string name="dialog_message_check_flight">Checando la información de vuelo</string>
+    <string name="dialog_message_loading">Carga del…</string>
+    <string name="dialog_title">Entretenimiento de videos Gogo</string>
+    <string name="landingDescExpired">Elige un nuevo video de su perfil o volver a la tienda de entretenimiento</string>
+    <string name="landingDescFirstTimeAir">"Acaba de empezar? Hecha un vistazo a lo que esta en nuestra biblioteca.
+
+Ya seleccionado una película Vuelve a tu navigador para empezar ver."</string>
+    <string name="landingDescGround">Ya esta todo listo para disfrutar de las ultimas peliculas y programas de television en su proximo vuelo equipado con Gogo</string>
+    <string name="landingDescLibraryEmpty">Elija un video de la tienda de entretenimiento para empezar</string>
+    <string name="landingDescLibraryEmptyExpired">Volver a la tienda de entretenimiento para eligir otro video</string>
+    <string name="landingDescNoDrm">Estamos teniendo problemas para recuperar su video. Por favor, intentalo de Nuevo o seleccione otro titulo de la tienda de entretenimiento</string>
+    <string name="landingDescNoROP">Puede accede a su video dentro de las 24 horas en otro vuelo de la misma aerolina como su alquiler inicial</string>
+    <string name="landingDescNoVideo">Estamos teniendo problemas para recuperar su video. Por favor, intentalo de Nuevo o sellecione otro video de la tienda de entretenimiento</string>
+    <string name="landingDescNoWifi">Habilitar la configuracion Wi-fi para conectarse a la red durante el vuelo</string>
+    <string name="landingIconCheckBox"></string>
+    <string name="landingIconNoWifi"></string>
+    <string name="landingIconVideoError"></string>
+    <string name="landingMainExpired">Este video ha expirado</string>
+    <string name="landingMainFirstTimeAir">Bienvenido a Gogo Entertainment!</string>
+    <string name="landingMainGround">Gracias por descargar Gogo Entertainment</string>
+    <string name="landingMainLibraryEmpty">No hay alquileres de videos disponibles</string>
+    <string name="landingMainLibraryEmptyExpired">Sus videos los han expirado</string>
+    <string name="landingMainNoDrm">El video no esta disponible</string>
+    <string name="landingMainNoROP">La reproduccion de video solo esta disponible durante el vuelo</string>
+    <string name="landingMainNoVideo">El video no esta disponible</string>
+    <string name="landingMainNoWifi">Wi-fi esta deshabilitado</string>
+    <string name="landingStoreButton">Explora nuestra biblioteca</string>
+    <string name="title_activity_landing">Entretenimiento de videos Gogo</string>
+    <string name="title_activity_launcher">Entretenimiento de videos Gogo</string>
+    <string name="title_activity_movie_player">Entretenimiento de videos Gogo</string>
+    <string name="try_again">Inténtalo De Nuevo</string>
+</resources>

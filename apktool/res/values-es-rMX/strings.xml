@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_about">Acerca</string>
+    <string name="app_name">Entretenimiento de videos Gogo</string>
+    <string name="caption_alert_title">Idioma de los subtitulos</string>
+    <string name="caption_option_cancel">Canelar</string>
+    <string name="caption_option_none">Ninguno</string>
+    <string name="closed_caption_icon"></string>
+    <string name="dialog_message_check_flight">Checando la información de vuelo</string>
+    <string name="dialog_message_loading">Carga del…</string>
+    <string name="dialog_title">Entretenimiento de videos Gogo</string>
+    <string name="landingDescExpired">Elige un nuevo video de tu perfil o vuelve al catálogo de entretenimiento</string>
+    <string name="landingDescFirstTimeAir">Selecciona un título del catálogo de videos para empezar. Si ya has seleccionado un título, vuelve a tu navegador para iniciar la reproducción.</string>
+    <string name="landingDescGround">Ya está todo listo para disfrutar de las ultimas películas y programas de televisión en tu próximo vuelo equipado con Gogo</string>
+    <string name="landingDescLibraryEmpty">Elige un video del catálogo de entretenimiento para empezar</string>
+    <string name="landingDescLibraryEmptyExpired">Volver al catálogo de entretenimiento para eligir otro video</string>
+    <string name="landingDescNoDrm">Estamos teniendo problemas para recuperar tu video. Por favor, inténtalo de nuevo o selecciona otro titulo del catálogo de entretenimiento</string>
+    <string name="landingDescNoROP">Puede accede a su video dentro de las 24 horas en otro vuelo de la misma aerolina como su alquiler inicial</string>
+    <string name="landingDescNoVideo">Estamos teniendo problemas para recuperar tu video. Por favor, inténtalo de nuevo o seleciona otro video del catálogo de entretenimiento</string>
+    <string name="landingDescNoWifi">Habilitar la configuración Wi-fi para conectarse a la red durante el vuelo</string>
+    <string name="landingIconCheckBox"></string>
+    <string name="landingIconNoWifi"></string>
+    <string name="landingIconVideoError"></string>
+    <string name="landingMainExpired">Este video ha expirado</string>
+    <string name="landingMainFirstTimeAir">Bienvenido a Gogo Entertainment!</string>
+    <string name="landingMainGround">Gracias por descargar Gogo Entertainment</string>
+    <string name="landingMainLibraryEmpty">No hay videos disponibles</string>
+    <string name="landingMainLibraryEmptyExpired">Tus videos han expirado</string>
+    <string name="landingMainNoDrm">El video no está disponible</string>
+    <string name="landingMainNoROP">La reproduccion de video solo esta disponible durante el vuelo</string>
+    <string name="landingMainNoVideo">El video no está disponible</string>
+    <string name="landingMainNoWifi">Wi-fi esta deshabilitado</string>
+    <string name="landingStoreButton">Explora nuestra biblioteca</string>
+    <string name="title_activity_landing">Entretenimiento de videos Gogo</string>
+    <string name="title_activity_launcher">Entretenimiento de videos Gogo</string>
+    <string name="title_activity_movie_player">Entretenimiento de videos Gogo</string>
+    <string name="try_again">Inténtalo De Nuevo</string>
+</resources>
